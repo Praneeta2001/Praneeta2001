@@ -7,10 +7,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently persuing b.tech in vr siddhartha engineering college
 - 🌱 I’m currently learning java, python and c
-- 👯 I’m looking to collaborate on indian administration
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on trending technologies
 - 💬 Ask me about my hobbies
-- 📫 How to reach me: email
-- 😄 Pronouns: she
-- ⚡ Fun fact: 
+- 📫 How to reach me: koppulapraneeta@gmail.com
+
+ 
 
